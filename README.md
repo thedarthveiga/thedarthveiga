@@ -27,7 +27,7 @@ I'm dedicating my personal time to the **[focus-reading-app](https://github.com/
 ### 🎮 AI Experiments: Rabbit-Head
 <div align="center">
   <a href="https://thedarthveiga.github.io/rabbit-head/" target="_blank">
-    <img src="https://raw.githubusercontent.com/thedarthveiga/rabbit-head/main/assets/rabbit_cover.png" alt="Play Rabbit-Head" width="200"/>
+    <img src="https://raw.githubusercontent.com/thedarthveiga/rabbit-head/main/assets/rabbit_face.png" alt="Play Rabbit-Head" width="200"/>
     <br>
     <h2>🎮 PLAY MY GAME: RABBIT-HEAD 🎮</h2>
   </a>
