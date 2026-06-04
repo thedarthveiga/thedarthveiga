@@ -7,6 +7,7 @@ I'm a Senior Backend Engineer with **15 years of experience** in software develo
 ### 💼 What I do
 *   **Architecture & Cloud:** Deep expertise in AWS serverless ecosystems (Lambdas, API Gateways, and various cloud frameworks).
 *   **Backend Engineering:** Robust APIs built primarily in **Kotlin with Spring Boot**, alongside extensive experience in **Java, Python, and Go**.
+*   **Past Experience:** Throughout my career, I've worked as a consultant delivering high-impact solutions for major players across various industries, including **Embraer, Ericsson, Claro, Nextel, BTG Pactual, and ICN (Itaguaí Construções Navais)**.
 *   **AI Exploration:** Heavily involved in AI-assisted development, currently exploring autonomous agents like Devin, Claude Code, and Antigravity with Gemini. I apply modern concepts like SDD (Software Design Description) and SPDD in everyday software lifecycle.
 *   **Academic Journey:** Currently pursuing a Postgraduate degree in **Software Engineering with Applied AI**.
 
