@@ -36,3 +36,4 @@ I'm dedicating my personal time to the **[focus-reading-app](https://github.com/
 </div>
 <!-- Achievement hunt update 4 -->
 <!-- badge trigger 1 -->
+<!-- badge trigger 2 -->
