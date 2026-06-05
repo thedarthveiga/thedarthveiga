@@ -47,3 +47,4 @@ I'm dedicating my personal time to the **[focus-reading-app](https://github.com/
 <!-- badge trigger 10 -->
 <!-- badge trigger 11 -->
 <!-- badge trigger 12 -->
+<!-- badge trigger 13 -->
