@@ -42,3 +42,4 @@ I'm dedicating my personal time to the **[focus-reading-app](https://github.com/
 <!-- badge trigger 5 -->
 <!-- badge trigger 6 -->
 <!-- badge trigger 7 -->
+<!-- badge trigger 8 -->
